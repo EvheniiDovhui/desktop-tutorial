@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "desktop-tutorial",
+			"path": "."
+		},
+		{
+			"name": "Rezume-project",
+			"path": "../Tutorial/Rezume-project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "desktop-tutorial"
+	}
+}
