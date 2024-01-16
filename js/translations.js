@@ -26,7 +26,7 @@ const translationsUk = {
 	aboutMeText2: `Проте, моя кар'єрна траєкторія зазнала змін: вирішивши розширити
 свої горизонти і спробував себе в сфері продажів. Я отримав роботу в
 магазині автотоварів та паралельно з цим навчався на продавця
-непродовольчих товарів. Цей етап тривав до кінця грудня 2022 року`,
+непродовольчих товарів. Цей етап тривав до кінця лютого 2022 року`,
 	aboutMeText3: `З об'єктивних причин у квітні мені довелося змінити місце проживання
 та розпочати волонтерську діяльність в новому місті. Це дало мені
 можливість поглибити свої знання та вміння у різних сферах.`,
@@ -58,7 +58,7 @@ const translationsEn = {
 	aboutMe: `About me`,
 	aboutMeText: `Given my education and work experience, I can share several stages of my professional development. My aspiration for self-improvement and acquiring new skills began during my training as an electrician when I started working at the age of 15.`,
 	aboutMeText1: `My career began with performing various tasks as a general laborer. After reaching adulthood, I worked in bag manufacturing at a factory and later transitioned to a company where I conducted repairs on intercity buses. During this time, I also initiated my own business in the automotive repair sector, which I successfully managed until September 2021.`,
-	aboutMeText2: `However, my career trajectory underwent a change: deciding to broaden my horizons, I ventured into the field of sales. I secured a position at an automotive supplies store while concurrently pursuing studies to become a non-food salesperson. This phase lasted until the end of December 2022.`,
+	aboutMeText2: `However, my career trajectory underwent a change: deciding to broaden my horizons, I ventured into the field of sales. I secured a position at an automotive supplies store while concurrently pursuing studies to become a non-food salesperson. This phase lasted until the end of February 2022.`,
 	aboutMeText3: `Due to objective reasons in April, I had to change my place of residence and commence volunteer work in a new city. This provided me with an opportunity to deepen my knowledge and skills in various areas.`,
 	aboutMeText4: `My confidence and desire for development led me to the IT industry, where I enrolled in full-stack developer courses. I have successfully completed half of this course and now wish to test my skills in a real professional environment. This is a new challenge where I aspire to realize my potential and reach new heights in my career.`,
 	// Sidebar

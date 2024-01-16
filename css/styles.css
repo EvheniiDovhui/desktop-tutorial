@@ -89,9 +89,9 @@ button {
 	width: 525px;
 	box-shadow: 4px 4px 4px 4px rgba(43, 41, 41, 0.25);
 }
-.my-descr-lower {
+/* .my-descr-lower {
 	height: 220px;
-}
+} */
 /*project*/
 .my-projects-container {
 	margin: 0 0 48px 0;
