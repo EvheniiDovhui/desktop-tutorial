@@ -3,8 +3,8 @@ const translationsUk = {
   myName: `Євгеній Довгуй`,
   greeting: `Енергійний та самодисциплінований Full-stack розробник, готовий працювати у різних сферах веб-розробки. Володію високим рівнем вмінь у HTML та CSS, добре орієнтуюся у JavaScript, а також вмію працювати з технологіями React та Node.js. Випробував себе як Scrum-Master у командних проєктах. Зацікавлений у постійному самовдосконаленні та вдосконаленні навичок для високоефективної роботи.`,
   maimContentTitle: `Проєкти`,
-  education: `Освіта розробника`,
-  courses: `Курси GoIT`,
+  education: `Освіта`,
+  courses: `GoIT`,
   management: 'Full-Stack Розробник',
   period: 'Липень 2023 - Квітень 2024 | Україна',
   aboutMe: `Про мене`,
@@ -34,7 +34,7 @@ const translationsUk = {
   // Sidebar
   contacts: `Контактна інформація`,
   technicalSkills: `Технічні навички`,
-  softSkills: `Особисті навички`,
+  softSkills: `Мови`,
 };
 
 const translationsEn = {
@@ -42,8 +42,8 @@ const translationsEn = {
   myName: `Evhenii Dovhui`,
   greeting: `Energetic and self-disciplined Full-stack developer, capable of working in various directions of web development. Possess a high level of proficiency in HTML and CSS, navigate well in JavaScript, and skilled in working with React and Node.js technologies. Tested myself as a Scrum-Master in team projects. Interested in continuous self-improvement and honing skills for highly effective work.`,
   maimContentTitle: `Projects`,
-  education: `Education of the developer`,
-  courses: `Courses GoIT`,
+  education: `Education`,
+  courses: `GoIT`,
   management: 'Full-Stack Developer',
   period: 'July 2023 - April 2024 | Ukraine',
   aboutMe: `About me`,
@@ -55,7 +55,7 @@ const translationsEn = {
   // Sidebar
   contacts: `Contacts`,
   technicalSkills: `Technical Skills`,
-  softSkills: `Soft Skills`,
+  softSkills: `Languages`,
 };
 
 // Функція для знаходження елементів за їх класом
